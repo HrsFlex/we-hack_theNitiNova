@@ -256,7 +256,8 @@ if st.session_state.login_status:
 
         if submit_button:
             with st.spinner("Analyzing..."):
-                s = f"As a commercial court lawyer of India, you've selected the following sections to focus on: {selected_sections} BNS stands for Bharatiya Nyaya Sanhita. Your objective is to {end_goal} with a focus at the {difficulty} level. Based on these inputs, I will guide you through the relevant legal principles, case precedents, and practical applications like Previous cases and dates with sources. This information will help you effectively navigate through the complexities of commercial law and strengthen your preparation for resolving disputes in a commercial court setting. Also Provide some live links of legal documents and references."
+                s = (f"As a commercial court lawyer of India, you've selected the following sections to focus on: {selected_sections} BNS stands for Bharatiya Nyaya Sanhita. Your objective is to {end_goal} with a focus at the {difficulty} level. Based on these inputs, you need to guide me through the relevant legal principles, case precedents, and practical applications like Previous cases and dates with sources. This information will help you effectively navigate through the complexities of commercial law and strengthen your preparation for resolving disputes in a commercial court setting. Also Provide some live links of legal documents and references.")
+
                 response = get_gemini_response(s)
                 st.write(response)
                 st.download_button(
