@@ -104,7 +104,7 @@ with st.sidebar:
     if st.session_state.login_status:
         selected = option_menu(
             menu_title="Legal Advisory🧑‍⚖️",  
-            options=["Students Study Portal", "Document Analysis", "Precedent Case Analysis", "IPC to BNS Converter"],
+            options=["Students Study Portal", "Document Analysis", "Precedent/Case Analysis", "IPC to BNS Converter"],
             
             icons=["book", "balance-scale", "briefcase"],  
             menu_icon="gavel",
@@ -271,7 +271,7 @@ if st.session_state.login_status:
 
     # Main app logic
 # ----------------------------------------PRECEDENT CASE ANALYSIS-----------------------------------
-    if selected == "Precedent Case Analyzer":
+    if selected == "Precedent/Case Analyzer":
         # Load the dataset
         @st.cache_data
         def load_data():
@@ -430,7 +430,7 @@ if st.session_state.login_status:
                     st.error("Please upload a PDF file")
 
 
-    if selected == "Precedent Case Analysis":
+    if selected == "Precedent/Case Analysis":
         link = "https://lottie.host/299688b5-e6b2-48ad-b2e9-2fa14b1fb117/TXqg2APXpL.json"
         l = load_lottieurl(link)
         
@@ -439,7 +439,7 @@ if st.session_state.login_status:
         with col1:
             st.lottie(l, height=100, width=100)
         with col2:
-            st.header(f":scales: Precedent Case Analysis 🧑‍⚖️ ", divider='rainbow')
+            st.header(f":scales: Precedent/Case Analysis 🧑‍⚖️ ", divider='rainbow')
         
 
 
