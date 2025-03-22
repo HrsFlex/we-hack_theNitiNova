@@ -1,0 +1,51 @@
+.lawyer-view {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f5f7fa;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .lawyer-view h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #004aad; /* Primary color of legalAide */
+  }
+  
+  .lawyer-view input {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .lawyer-view input[type="password"] {
+    margin-top: 10px;
+  }
+  
+  .lawyer-view button {
+    padding: 10px 20px;
+    background-color: #004aad; /* Primary color of legalAide */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .lawyer-view button:hover {
+    background-color: #003780; /* Darker shade for hover effect */
+  }
+  
+  iframe {
+    margin-top: 20px;
+    width: 100%;
+    height: 500px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  

@@ -1,0 +1,86 @@
+{
+  "Create Boilerplate Clauses": {
+    "description": "Generate standard adaptable clauses for agreements, saving time drafting contracts",
+    "icon": "FaFileAlt" 
+  },
+  "Consumer Compliant Letter": {
+    "description": "Dispute invoice you think unjustified, asking the bot to write letter requesting credit",
+    "icon": "FaPencilAlt" 
+  },
+  "Prompts for immigration lawyers": {
+    "description": "Increase efficiency in searching for information related to immigration policies.",
+    "icon": "FaCode" 
+  },
+  "Prompts for family lawyers": {
+    "description": "Reduce the time spent searching for information using family law prompts",
+    "icon": "FaUsers"
+  },
+  "Demand Letter": {
+    "description": "Ask the bot to draft a letter formally requesting payment or resolution of a dispute.",
+    "icon": "FaEnvelope" 
+  },
+  "Legal compliance": {
+    "description": "We can help you comply with jurisprudential requirements.",
+    "icon": "FaGavel" 
+  },
+  "Termination Letter": {
+    "description": "A written notice to end a contractual agreement.",
+    "icon": "FaStop" 
+  },
+  "Child support": {
+    "description": "Consult with artificial intelligence regarding child benefits.",
+    "icon": "FaChild" 
+  },
+  "Cease and Desist Letter": {
+    "description": "Letter when somebody is infringing your intellectual property.",
+    "icon": "FaNewspaper" 
+  },
+  "Prompts for tax lawyers": {
+    "description": "Finding information will be much easier with Prompts for Tax Lawyers",
+    "icon": "FaCalculator" 
+  },
+  "Legal document automation": {
+    "description": "We can automate the process of drafting jurisprudential documents.",
+    "icon": "FaRobot" 
+  },
+  "Legal process improvement": {
+    "description": "The bot can improve the efficiency and effectiveness of the process",
+    "icon": "FaSyncAlt" 
+  },
+  "Prompts for business lawyers": {
+    "description": "Enhancing information navigation efficiency for business lawyers with prompts",
+    "icon": "FaBriefcase" 
+  },
+  "Prompts for injury lawyers": {
+    "description": "Optimize workflows with a huge amount of Prompts for personal injury lawyers.",
+    "icon": "FaAmbulance" 
+  },
+  "Shareholders' Agreement": {
+    "description": "Ask the robot to create shareholder contract draft specifying rights and responsibilities",
+    "icon": "FaHandshake" 
+  },
+  "Create company policy document": {
+    "description": "Have it create company policy documents covering harassment, safety, privacy, conflicts, corruption.",
+    "icon": "FaShieldAlt" 
+  },
+  "Prompts for intellectual property lawyers": {
+    "description": "These prompts make it much easier for an intellectual property lawyer to handle routine tasks",
+    "icon": "FaKey" 
+  },
+  "Personal assistant": {
+    "description": "Chat history is stored indefinitely and you can return to the correspondence at any time.",
+    "icon": "FaUserCircle" 
+  },
+  "AI-boosted Research laws": {
+    "description": "Pose questions about laws in a particular country or jurisdiction and receive a summary report.",
+    "icon": "FaSearchengin" 
+  },
+  "Case Law Finder": {
+    "description": "Find case law matching specific facts.",
+    "icon": "FaSearch"
+  },
+  "Case File Analysis": {
+    "description": "Analysing the case file and get the Suggestion and opinion.",
+    "icon": "FaRegFilePdf"
+  }
+}
