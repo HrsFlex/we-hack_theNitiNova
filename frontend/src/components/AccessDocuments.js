@@ -11,7 +11,7 @@ const AccessDocuments = () => {
     const { data } = await axios.post(
       "http://localhost:8000/api/pdf/access",
       { uniqueId, password },
-      { responseType: "blob" }
+      { responseType: "blob"  }
     );
 
     const pdfBlob = new Blob([data], { type: "application/pdf" });
