@@ -13,7 +13,7 @@ const UploadDocument = () => {
     formData.append("pdf", file);
 
     const { data } = await axios.post(
-      "http://localhost:8000/api/pdf/upload",
+      "http://localhost:8000/api/upload",
       formData
     );
     setResponse(data);
