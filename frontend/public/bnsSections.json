@@ -1,0 +1,102 @@
+[
+    {
+        "bnsSection": "BNS 101",
+        "ipcSection": "IPC 302",
+        "briefInfo": "Punishment for murder. The accused can face death penalty or life imprisonment along with a fine."
+    },
+    {
+        "bnsSection": "BNS 102",
+        "ipcSection": "IPC 307",
+        "briefInfo": "Attempt to murder. Covers cases where someone tries to murder another person but does not succeed."
+    },
+    {
+        "bnsSection": "BNS 103",
+        "ipcSection": "IPC 375",
+        "briefInfo": "Defines the offense of rape and specifies circumstances under which it is considered as such."
+    },
+    {
+        "bnsSection": "BNS 104",
+        "ipcSection": "IPC 124A",
+        "briefInfo": "Sedition. Any act or speech that incites rebellion against the authority of the state."
+    },
+    {
+        "bnsSection": "BNS 105",
+        "ipcSection": "IPC 420",
+        "briefInfo": "Cheating and dishonestly inducing delivery of property."
+    },
+    {
+        "bnsSection": "BNS 106",
+        "ipcSection": "IPC 376",
+        "briefInfo": "Punishment for rape. Includes imprisonment of not less than seven years, which may extend to life imprisonment."
+    },
+    {
+        "bnsSection": "BNS 107",
+        "ipcSection": "IPC 498A",
+        "briefInfo": "Husband or relative of husband subjecting a woman to cruelty."
+    },
+    {
+        "bnsSection": "BNS 108",
+        "ipcSection": "IPC 304B",
+        "briefInfo": "Dowry death. Involves the death of a woman caused by burns or bodily injury within 7 years of marriage due to dowry-related issues."
+    },
+    {
+        "bnsSection": "BNS 109",
+        "ipcSection": "IPC 354",
+        "briefInfo": "Assault or criminal force to a woman with intent to outrage her modesty."
+    },
+    {
+        "bnsSection": "BNS 110",
+        "ipcSection": "IPC 341",
+        "briefInfo": "Wrongful restraint. Preventing someone from proceeding in any direction they have the right to."
+    },
+    {
+        "bnsSection": "BNS 111",
+        "ipcSection": "IPC 378",
+        "briefInfo": "Defines theft as an act of dishonestly taking another person’s movable property without consent."
+    },
+    {
+        "bnsSection": "BNS 112",
+        "ipcSection": "IPC 411",
+        "briefInfo": "Dishonestly receiving stolen property. Punishes anyone who knowingly receives or retains stolen goods."
+    },
+    {
+        "bnsSection": "BNS 113",
+        "ipcSection": "IPC 326",
+        "briefInfo": "Voluntarily causing grievous hurt by dangerous weapons or means."
+    },
+    {
+        "bnsSection": "BNS 114",
+        "ipcSection": "IPC 506",
+        "briefInfo": "Criminal intimidation. Threatening someone with injury to their person, reputation, or property."
+    },
+    {
+        "bnsSection": "BNS 115",
+        "ipcSection": "IPC 304",
+        "briefInfo": "Punishment for culpable homicide not amounting to murder."
+    },
+    {
+        "bnsSection": "BNS 116",
+        "ipcSection": "IPC 325",
+        "briefInfo": "Punishment for voluntarily causing grievous hurt."
+    },
+    {
+        "bnsSection": "BNS 117",
+        "ipcSection": "IPC 509",
+        "briefInfo": "Word, gesture, or act intended to insult the modesty of a woman."
+    },
+    {
+        "bnsSection": "BNS 118",
+        "ipcSection": "IPC 201",
+        "briefInfo": "Causing disappearance of evidence of an offense or giving false information to screen the offender."
+    },
+    {
+        "bnsSection": "BNS 119",
+        "ipcSection": "IPC 193",
+        "briefInfo": "Punishment for giving or fabricating false evidence with intent to procure conviction."
+    },
+    {
+        "bnsSection": "BNS 120",
+        "ipcSection": "IPC 147",
+        "briefInfo": "Punishment for rioting. Includes any unlawful assembly involving violence."
+    }
+]

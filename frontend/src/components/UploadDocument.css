@@ -1,0 +1,51 @@
+.judge-view {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f5f7fa;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.judge-view h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #004aad; /* Primary color of legalAide */
+}
+
+.judge-view input[type="file"] {
+  margin-bottom: 15px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  width: 100%;
+}
+
+.judge-view button {
+  padding: 10px 20px;
+  background-color: #004aad; /* Primary color of legalAide */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.judge-view button:hover {
+  background-color: #003780; /* Darker shade for hover effect */
+}
+
+.response {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+  background-color: #eaf1fb; /* Light blue background for response */
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.response p {
+  margin: 10px 0;
+}
