@@ -24,7 +24,7 @@ const Welcome = () => {
   };
 
   const openStreamlitApp = () => {
-    window.open("https://aiwaqeel-rag.streamlit.app/", "_blank");
+    window.open("https://ai-waqeel.streamlit.app/", "_blank");
   };
 
   return (
