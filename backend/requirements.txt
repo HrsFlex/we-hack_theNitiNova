@@ -1,0 +1,28 @@
+# Core dependencies
+streamlit
+google-generativeai
+
+# PDF Processing
+PyPDF2
+pdf2image
+
+
+# Authentication & Security
+werkzeug
+
+# Translation & Transcription
+googletrans
+youtube_transcript_api
+SpeechRecognition
+
+# Document Generation
+fpdf
+
+# Environment & Configuration
+python-dotenv
+
+# UI Components
+streamlit-option-menu
+streamlit-lottie
+requests
+
