@@ -6,14 +6,21 @@
     cd we-hack-backend
     ```
 
+
+
     Add the following images to provide a visual reference for the project structure:
 
     ![Image 1](img_rd/image1.png)
     *Image 1: Overview of the project directory structure.*
 
+
+
     ![Image 2](img_rd/image2.png)
     *Image 2: Detailed view of the `src` folder.*
     ![Clone Repository](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
+
+
+
 
 2. **Create and activate a virtual environment**:
     ```bash
@@ -21,6 +28,7 @@
     conda activate venv/
     ```
     ![Virtual Environment](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
 
 3. **Install dependencies**:
     ```bash
