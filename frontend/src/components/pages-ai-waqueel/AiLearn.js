@@ -10,7 +10,7 @@ const AiLearn = () => {
       </div>
       <div className="flex items-center flex-col">
         <h1 className="text-5xl font-medium text-white">
-          How to use AI Waqeel
+          How to use Vidhi-Shiksha AI 
         </h1>
         <br />
         <p className="text-lg w-[600px] text-center text-teal-600">
