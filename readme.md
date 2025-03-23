@@ -1,12 +1,12 @@
-# The Niti Nova
+# The Niti Nova at WeHack-2025
 
-Welcome to **The Niti Nova**!
+Welcome to **Vidhi Shiksha Ai**!
 
 ## About Us
 We are a team dedicated to revolutionizing the way legal and governance processes are handled. Our mission is to simplify complex systems, making them accessible and efficient for everyone.
 
 ## Project Overview
-The Niti Nova project focuses on creating innovative tools and platforms that streamline legal and governance workflows. By leveraging cutting-edge technology, we aim to empower individuals and organizations to navigate these domains with ease.
+The Vidhi Shiksha Ai focuses on creating innovative tools and platforms that streamline legal and governance workflows. By leveraging cutting-edge technology, we aim to empower individuals and organizations to navigate these domains with ease.
 
 ## Features
 1. **User-Friendly Interface**: Simplified navigation for all users.
@@ -17,20 +17,20 @@ The Niti Nova project focuses on creating innovative tools and platforms that st
 ## Images
 Below is a sequence of images that showcase our project:
 
-1. **Overview of the Platform**  
-    ![Platform Overview](images/platform-overview.png)
+1. **Problems of the Lawyer**  
+    ![Platform Overview](/readme-files/1.png)
 
-2. **Key Features in Action**  
-    ![Features](images/features.png)
+2. **Statistical Data**  
+    ![Features](/readme-files/2.png)
 
-3. **User Dashboard**  
-    ![Dashboard](images/dashboard.png)
+3. **Proposed Solution**  
+    ![Dashboard](/readme-files/3.png)
 
-4. **Legal Document Automation**  
-    ![Document Automation](images/document-automation.png)
+4. **Compitative Landscape**  
+    ![Document Automation](/readme-files/4.png)
 
-5. **Governance Analytics**  
-    ![Analytics](images/analytics.png)
+5. **Architecture**  
+    ![Analytics](/readme-files/5.png)
 
 ## Get Involved
 We welcome contributions and feedback! Feel free to explore, contribute, or reach out to us for collaboration.
