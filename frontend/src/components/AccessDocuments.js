@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
-import "./AccessDocuments.css"; // Ensure CSS is properly linked
+import "./AccessDocuments.css"; // Ensure CSS is linked
 
 const AccessDocuments = () => {
   const [uniqueId, setUniqueId] = useState("");
@@ -20,18 +20,18 @@ const AccessDocuments = () => {
     setPdfUrl("");
 
     try {
-      console.log("🔹 Sending request to access document:", uniqueId, password);
+      console.log("🔹 Sending request:", { uniqueId, password });
 
       const response = await axios.post(
         "http://localhost:8000/api/pdf/access",
-        { uniqueId, password },
-        { responseType: "blob" }
+        { uniqueId: uniqueId.trim(), password: password.trim() },
+        { responseType: "arraybuffer" }
       );
 
       console.log("✅ Document fetched successfully!");
 
-      const pdfBlob = new Blob([response.data], { type: "application/pdf" });
-      setPdfUrl(URL.createObjectURL(pdfBlob));
+      const blob = new Blob([response.data], { type: "application/pdf" });
+      setPdfUrl(URL.createObjectURL(blob));
     } catch (error) {
       console.error("❌ Access error:", error.response?.data || error.message);
       setError(error.response?.data?.message || "❌ Failed to access document.");
@@ -65,7 +65,14 @@ const AccessDocuments = () => {
 
       {error && <p className="error">{error}</p>}
 
-      {pdfUrl && <iframe src={pdfUrl} width="600" height="400" title="PDF Viewer" />}
+      {pdfUrl && (
+        <>
+          <iframe src={pdfUrl} width="600" height="400" title="PDF Viewer" />
+          <a href={pdfUrl} target="_blank" rel="noopener noreferrer" className="download-link">
+            📥 Open in New Tab
+          </a>
+        </>
+      )}
     </div>
   );
 };

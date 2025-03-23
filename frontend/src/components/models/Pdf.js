@@ -1,7 +1,9 @@
 const mongoose = require("mongoose");
-const PdfSchema = new mongoose.Schema({
-  uniqueId: { type: String, required: true },
+
+const documentSchema = new mongoose.Schema({
+  uniqueId: { type: String, required: true, unique: true },
   password: { type: String, required: true },
-  pdfPath: { type: String, required: true },
+  filePath: { type: String, required: true },
 });
-module.exports = mongoose.model("Pdf", PdfSchema);
+
+module.exports = mongoose.model("Document", documentSchema);
