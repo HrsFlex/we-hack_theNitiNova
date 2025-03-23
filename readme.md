@@ -35,8 +35,7 @@ Below is a sequence of images that showcase our project:
 ## Get Involved
 We welcome contributions and feedback! Feel free to explore, contribute, or reach out to us for collaboration.
 
-## Contact
-For more information, visit our [website](#) or contact us at [email@example.com](mailto:email@example.com).
+
 
 ---
 *Empowering Legal and Governance with Innovation.*
