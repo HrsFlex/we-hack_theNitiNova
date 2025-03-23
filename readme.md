@@ -1,2 +1,6 @@
-## We are The Niti Nova.
-Legal & Governanace..
+
+# We are The Niti Nova.
+
+## WeHack Hackathon 
+Legal & Governanace
+
